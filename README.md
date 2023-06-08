@@ -1,1 +1,2 @@
 # odin-recipes
+Today's project will involve the creation of a website that will contain some clear and concise recipes, to allow anyone with an internet connection to create the most delicious morsels with confident ease. Through the completion of this project I will have demonstrated thorough mastery of basic html boilerplate and cooking of all sorts, as well as a commitment to good git commits.
